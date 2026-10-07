@@ -2,4 +2,4 @@
 :HL["/media-reviews/_next/static/chunks/1af80iwcfbqw2.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"cart","h":96,"c":"$Q2"}]]
-0:{"b":"uvJfKHBK-k1ukb_e-ePWp","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"C7YuifD_LWcBUo_RpOLRo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
