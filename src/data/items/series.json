@@ -1,0 +1,13 @@
+[
+  {
+    "id": "series-1",
+    "title": "Severance",
+    "category": "series",
+    "coverImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=500",
+    "rating": 9.2,
+    "tags": ["Sci-Fi", "Mystery", "Thriller", "Workplace"],
+    "summary": "Employees undergo a surgical procedure to separate their work memories from their personal memories.",
+    "review": "<h2>Chilling Workplace Thriller</h2><p>Severance builds tension with surgical precision. The contrast between the sterile office environment and the dark corporate secrets keeps you guessing every episode.</p>",
+    "status": "Ongoing"
+  }
+]

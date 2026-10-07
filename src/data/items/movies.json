@@ -1,0 +1,13 @@
+[
+  {
+    "id": "movie-1",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "category": "movie",
+    "coverImage": "https://images.unsplash.com/photo-1635863138275-d9b33299680b?w=500",
+    "rating": 9.7,
+    "tags": ["Animation", "Action", "Superhero", "Multiverse"],
+    "summary": "Miles Morales catapults across the Multiverse, encountering a team of Spider-People charged with protecting its existence.",
+    "review": "<h2>Visual Perfection</h2><p>Pushes the boundaries of what animated feature films can achieve visually while maintaining a deeply personal emotional core.</p>",
+    "status": "Completed"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "manhwa-1",
+    "title": "Solo Leveling",
+    "category": "manhwa",
+    "coverImage": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500",
+    "rating": 9.5,
+    "tags": ["Action", "Fantasy", "Overpowered MC", "Dungeons"],
+    "summary": "In a world where hunters battle deadly monsters, weak hunter Sung Jinwoo is chosen by a mysterious program.",
+    "review": "<h2>God-Tier Art & Pacing</h2><p>Solo Leveling sets the modern standard for webtoons. <b>DUBU's illustration style</b> brings every fight scene to life with dynamic paneling and vibrant effects.</p><h3>Key Highlights</h3><ul><li><b>Pacing:</b> Fast-paced with constant progression.</li><li><b>Art:</b> Top-tier character designs and shadow effects.</li></ul><blockquote>A must-read for anyone getting into modern webtoons.</blockquote>",
+    "status": "Completed"
+  }
+]

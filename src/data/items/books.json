@@ -1,0 +1,13 @@
+[
+  {
+    "id": "book-1",
+    "title": "Dune",
+    "category": "books",
+    "coverImage": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=500",
+    "rating": 9.8,
+    "tags": ["Sci-Fi", "Classic", "Politics", "Epic"],
+    "summary": "Set on the desert planet Arrakis, Paul Atreides navigates betrayal, prophecy, and ecological struggle.",
+    "review": "A masterclass in world-building. Essential reading for any science fiction enthusiast.",
+    "status": "Completed"
+  }
+]
