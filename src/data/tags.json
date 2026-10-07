@@ -1,0 +1,58 @@
+{
+  "manhwa": [
+    {
+      "name": "action",
+      "description": "Lutas intensas, artes marciais e cenas de combate de alto ritmo."
+    },
+    {
+      "name": "fantasy",
+      "description": "Mundos mágicos, monstros, sistemas de jogo e dungeons."
+    },
+    {
+      "name": "romance",
+      "description": "Foco no desenvolvimento relacional e conexões amorosas entre personagens."
+    },
+    {
+      "name": "overpowered mc",
+      "description": "Protagonista que supera rapidamente todos os adversários."
+    }
+  ],
+  "books": [
+    {
+      "name": "sci-fi",
+      "description": "Exploração espacial, tecnologia avançada e futuros distópicos."
+    },
+    {
+      "name": "classic",
+      "description": "Obras literárias atemporais de grande relevância histórica."
+    },
+    {
+      "name": "politics",
+      "description": "Intrigas de poder, rivalidades de casas e diplomacia complexa."
+    },
+    {
+      "name": "epic",
+      "description": "Narrativas de grande escala com impacto em todo o mundo da história."
+    }
+  ],
+  "series": [
+    {
+      "name": "thriller",
+      "description": "Tensão psicológica, suspense e reviravoltas no enredo."
+    },
+    {
+      "name": "mystery",
+      "description": "Enigmas por resolver, segredos corporativos e investigações."
+    }
+  ],
+  "movie": [
+    {
+      "name": "animation",
+      "description": "Estilos visuais inovadores e animação de alta qualidade."
+    },
+    {
+      "name": "superhero",
+      "description": "Aventuras focadas em heróis com capacidades extraordinárias."
+    }
+  ]
+}

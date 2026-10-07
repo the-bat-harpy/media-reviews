@@ -1,5 +1,4 @@
 // src/store/useCartStore.ts
-
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 import { MediaItem } from '@/data/mediaData';
@@ -17,23 +16,19 @@ export const useCartStore = create<CartState>()(
     (set, get) => ({
       items: [],
       addItem: (item) => {
-        const exists = get().items.some((i) => i.id === item.id);
-        if (!exists) {
-          set((state) => ({ items: [...state.items, item] }));
+        const { items } = get();
+        if (!items.some((i) => i.id === item.id)) {
+          set({ items: [...items, item] });
         }
       },
       removeItem: (id) => {
-        set((state) => ({
-          items: state.items.filter((i) => i.id !== id)
-        }));
+        set({ items: get().items.filter((i) => i.id !== id) });
       },
       clearCart: () => set({ items: [] }),
-      isInCart: (id) => {
-        return get().items.some((i) => i.id === id);
-      }
+      isInCart: (id) => get().items.some((i) => i.id === id),
     }),
     {
-      name: 'media-pdf-cart' // Persists cart state in browser localStorage
+      name: 'media-cart-storage',
     }
   )
 );
